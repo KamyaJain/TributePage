@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    font-size: 15px;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+#main{
+    margin: 20px 10px;
+    background-color: #eee;
+    border-radius: 5px;
+}
+  
+figure{
+    background-color: white;
+  }
+  
+#title h1{
+    padding: 8px;
+    padding-top: 50px;
+    font-size: 34px;
+    font-weight: 700;
+  }
+
+#title p{
+    margin: 10px auto 5px;
+}
+  
+#image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+#img-caption{
+    padding: 15px;
+  }
+  
+#list, #quote{
+    text-align: left;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    line-height: 1.5
+  }
+  
+#tribute-info h3{
+    margin: 40px auto;
+  }
+  
+li{
+    margin-bottom: 10px;
+  }
+
+footer{
+    padding-bottom: 10px;
+}
+
+a{
+    color: #477ca7;
+}
